@@ -13,7 +13,7 @@ QUESTION 1:
 
 What is the output of the `git branch` command?
 ----------
-THe output is the branches in my computer:
+The output is the branches in my computer:
 Yi-Fu:bst273_lecture09 franky9955$ git branch
 * BST273HW
   master
